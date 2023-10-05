@@ -5,5 +5,5 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class CourseController {
 
-    public List<Course> tes
+    public List<Course> te
 }
